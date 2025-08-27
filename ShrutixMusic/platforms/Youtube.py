@@ -1,3 +1,25 @@
+# Copyright (c) 2025 Nand Yaduwanshi <NoxxOP>
+# Location: Supaul, Bihar
+#
+# All rights reserved.
+#
+# This code is the intellectual property of Nand Yaduwanshi.
+# You are not allowed to copy, modify, redistribute, or use this
+# code for commercial or personal projects without explicit permission.
+#
+# Allowed:
+# - Forking for personal learning
+# - Submitting improvements via pull requests
+#
+# Not Allowed:
+# - Claiming this code as your own
+# - Re-uploading without credit or permission
+# - Selling or using commercially
+#
+# Contact for permissions:
+# Email: badboy809075@gmail.com
+
+
 import asyncio
 
 import os
@@ -22,19 +44,15 @@ import random
 import logging
 
 def cookie_txt_file():
-    folder_path = os.path.join(os.getcwd(), "ShrutixMusic", "cookies")
-    filename = os.path.join(folder_path, "logs.csv")
+    folder_path = f"{os.getcwd()}/cookies"
+    filename = f"{os.getcwd()}/cookies/logs.csv"
     txt_files = glob.glob(os.path.join(folder_path, '*.txt'))
-
     if not txt_files:
-        raise FileNotFoundError("No .txt files found in the 'ShrutixMusic/cookies' folder.")
-
+        raise FileNotFoundError("No .txt files found in the specified folder.")
     cookie_txt_file = random.choice(txt_files)
-
     with open(filename, 'a') as file:
         file.write(f'Choosen File : {cookie_txt_file}\n')
-
-    return os.path.join("ShrutixMusic", "cookies", os.path.basename(cookie_txt_file))
+    return f"""cookies/{str(cookie_txt_file).split("/")[-1]}"""
 
 
 
@@ -419,3 +437,15 @@ class YouTubeAPI:
             direct = True
             downloaded_file = await loop.run_in_executor(None, audio_dl)
         return downloaded_file, direct
+
+
+# ©️ Copyright Reserved - @NoxxOP  Nand Yaduwanshi
+
+# ===========================================
+# ©️ 2025 Nand Yaduwanshi (aka @NoxxOP)
+# 🔗 GitHub : https://github.com/NoxxOP/ShrutixMusic
+# 📢 Telegram Channel : https://t.me/ShrutiBots
+# ===========================================
+
+
+# ❤️ Love From ShrutiBots 
