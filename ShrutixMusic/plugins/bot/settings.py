@@ -194,7 +194,7 @@ async def send_repo(_, message: Message):
         reply_markup=InlineKeyboardMarkup(
             [
                 [InlineKeyboardButton("🎵 Music + Management Bot Repo", url="https://github.com/NoxxOP/ShrutiMusic")],
-                [InlineKeyboardButton("🎧 Only Music Bot Repo", url="https://github.com/NoxxOP/ShrutixMusic")]
+                [InlineKeyboardButton("🎧 Rᴇᴘᴏ Cʜɪʏᴇ  Dᴍ Kᴀʀᴏ", url="https://t.me/Vip_chor")]
             ]
         ),
         supports_streaming=True,
@@ -412,3 +412,4 @@ async def vote_change(client, CallbackQuery, _):
         )
     except MessageNotModified:
         return
+
