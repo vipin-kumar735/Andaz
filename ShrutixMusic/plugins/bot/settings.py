@@ -193,7 +193,7 @@ async def send_repo(_, message: Message):
         ),
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("🎵 Bot List Babu", url="https://t.me/ll_bots_ll")],
+                [InlineKeyboardButton("🎵 Bot List Babu Vɪᴘ Kᴀ", url="https://t.me/ll_bots_ll")],
                 [InlineKeyboardButton("🎧 Rᴇᴘᴏ Cʜɪʏᴇ  Dᴍ Kᴀʀᴏ", url="https://t.me/Vip_chor")]
             ]
         ),
@@ -412,5 +412,6 @@ async def vote_change(client, CallbackQuery, _):
         )
     except MessageNotModified:
         return
+
 
 
