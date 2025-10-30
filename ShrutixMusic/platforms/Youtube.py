@@ -18,7 +18,7 @@
 #
 # Contact for permissions:
 # Email: badboy809075@gmail.com
-
+# vip chor😂
 
 import asyncio
 
