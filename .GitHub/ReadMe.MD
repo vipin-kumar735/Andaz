@@ -489,7 +489,7 @@ We welcome contributions! Here's how you can help:
 ### **Main Developer**
 - **NoxxOP** - Creator and Lead Developer
   - GitHub: [@NoxxOP](https://github.com/NoxxOP)
-  - Telegram: [@WTF_WhyMeeh](https://t.me/WTF_WhyMeeh)
+  - Telegram: [@Vip_chor](https://t.me/Vip_chor)
 
 ### **Special Thanks**
 - **Pyrogram** - Telegram MTProto API Framework
@@ -518,9 +518,9 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 🔗 Important Links
 
 ### **Support & Community**
-- 📢 **Support Channel**: [@ShrutiBots](https://t.me/ShrutiBots)
-- 💬 **Support Group**: [@ShrutiBotSupport](https://t.me/ShrutiBotSupport)
-- 🔧 **Session Generator**: [@ShrutiSessionBot](https://t.me/ShrutiSessionBot)
+- 📢 **Support Channel**: [DILCHOR_NETWORK](https://t.me/TEAM_CHOR)
+- 💬 **update Group**: [STAR BOTS](https://t.me/ll_star_bots_ll)
+- 🔧 **modified by**: [VIP CHOR](https://t.me/Vip_chor)
 
 ### **Developer Resources**
 - 📚 **Documentation**: [Wiki](https://github.com/NoxxOP/ShrutixMusic/wiki)
