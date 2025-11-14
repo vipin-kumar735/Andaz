@@ -2,7 +2,7 @@
   <img src="https://files.catbox.moe/m7m0x9.jpg" alt="ShrutixMusic Bot Logo" width="500px">
 </p>
 
-<h1 align="center">🎵 ShrutixMusic Bot 🎵</h1>
+<h1 align="center">🎍 Hᴀʀsʜᴜ Mᴜsɪᴄ 🎍</h1>
 
 <p align="center">
   <b>Ultimate Telegram Music Bot with Superior Audio Quality & Advanced Music Features</b>
