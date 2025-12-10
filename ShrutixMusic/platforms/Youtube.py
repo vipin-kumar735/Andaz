@@ -18,8 +18,8 @@ import aiohttp
 from ShrutixMusic import LOGGER
 from urllib.parse import urlparse
 
-YOUR_API_URL = None
-FALLBACK_API_URL = "https://shrutibots.site"
+YOUR_API_URL = "https://teaminflex.xyz"
+FALLBACK_API_URL = "https://teaminflex.xyz"
 
 async def load_api_url():
     global YOUR_API_URL
